@@ -144,8 +144,7 @@ Risk metrics
 
  Getting Started
 1️- Clone the repository
-git clone https://github.com/yourusername/us-rates-curve-analytics.git
-cd us-rates-curve-analytics
+git clone https://github.com/g79ky6c79c-bot/US-Rates-Curve-Spread-Analytics
 
 2️- Install dependencies
 pip install flask flask-cors pandas numpy pandas-datareader scipy nelson-siegel-svensson
