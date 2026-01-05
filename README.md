@@ -143,13 +143,14 @@ Statistical indicators
 Risk metrics
 
  Getting Started
-1️- Clone the repository
+
+1- Clone the repository
 git clone https://github.com/g79ky6c79c-bot/US-Rates-Curve-Spread-Analytics
 
-2️- Install dependencies
+2- Install dependencies
 pip install flask flask-cors pandas numpy pandas-datareader scipy nelson-siegel-svensson
 
-3️- Run the backend
+3- Run the backend
 python main.py
 
 
